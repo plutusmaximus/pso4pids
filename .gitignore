@@ -1,1 +1,6 @@
-/gradle/
+# Gradle files
+.gradle/
+pso4pids/build/
+
+# Local configuration file (sdk path, etc)
+local.properties
